@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DoctorLog</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="clear_log">Clear Log</string>
+    <string name="title_activity_canvas">CanvasAct</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_imageviewact">Imageviewact</string>
+</resources>

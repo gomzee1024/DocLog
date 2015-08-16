@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/clear_log1"
+        android:orderInCategory="100"
+        android:title="Clear All Log"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/clear_log2"
+        android:orderInCategory="100"
+        android:title="Clear Log Up to Date"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_action_search"
+        android:title="Search"
+        app:showAsAction="always"
+        ></item>
+
+</menu>
